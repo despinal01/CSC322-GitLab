@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void){
-    printf("Happy");
+    printf("Hello Happy World!");
 
     return 0;
 }
